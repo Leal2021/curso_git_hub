@@ -1,1 +1,2 @@
 essa linha foi modificada no ramo master.
+também foi adicionada uma linha da ramificação teste.
