@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 essa linha foi modificada no ramo master.
 esta linha foi modificada no ramo teste.
 novas informações apenas de teste.
+=======
+esta linha foi modificada no ramo teste.
+agora recebe também dados do ramo secundário.
+>>>>>>> teste
