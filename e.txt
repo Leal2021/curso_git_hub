@@ -1,2 +1,3 @@
 Nova entrada, simulando arquivos adicionados recentmente.
 novos dados adicionados, para treinamento de fusão de ramos.
+inserida novas funções para o merge dos arquivos.
