@@ -1,3 +1,5 @@
 Nova entrada, simulando arquivos adicionados recentmente.
 novos dados adicionados, para treinamento de fusão de ramos.
 inserida novas funções para o merge dos arquivos.
+Esta linha esta sendo adicionado para testar o Git pull.
+É uma opção para atualizar as informações da nuvem com o repositório local.
