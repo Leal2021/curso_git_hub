@@ -1,0 +1,2 @@
+Teste para uso do fetch.
+Comando na qual faz comparações entre arquivos.
