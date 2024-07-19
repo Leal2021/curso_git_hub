@@ -1,0 +1,2 @@
+Inserindo dados para o arquivo d.txt
+não ficar vazio. Informações adicionadas para teste de git pull.
