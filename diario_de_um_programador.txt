@@ -1,3 +1,4 @@
 Vamos lá.
 Ser programador requer não apenas vontade ou curiosidade, mas sim uma vontade de criar e ser um desenvolvedor.
 Saber que suas aplicações podem ser usadas ao redor do globo e vc sendo uma referencia na área.
+Hoje comecei a testar o fetch do git.
