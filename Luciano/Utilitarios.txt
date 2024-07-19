@@ -1,1 +1,2 @@
-
+Arquivo apenas para testar o Git Pull.
+Sincronização para os repositórios entre locais e nuvem.
